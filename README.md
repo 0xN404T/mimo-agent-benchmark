@@ -1,17 +1,15 @@
-# MiMo Agent Benchmark
+# mimo-agent-benchmark
 
-Benchmark suite for testing Xiaomi MiMo models on coding-agent tasks.
+Real prototype for Xiaomi MiMo 100T creator program.
 
-## Features
-- Runs structured coding tasks
-- Measures latency, cost, and correctness
-- Compares model outputs across prompts
-- Exports JSON and Markdown reports
+## Purpose
+This project demonstrates practical Xiaomi MiMo API usage for developer workflows.
 
-## Tech Stack
-- Python
-- pytest
-- Xiaomi MiMo API
+## Run
+See source files and `.env.example`.
 
 ## Status
-Prototype planned for Xiaomi MiMo 100T creator program.
+Working MVP skeleton with real code paths, environment config, and CLI/API entrypoints.
+
+## Author
+0xN404T
