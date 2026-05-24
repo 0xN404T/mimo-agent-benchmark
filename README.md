@@ -40,3 +40,15 @@ This project runs a fixed set of prompts against MiMo API, measures latency, sto
 
 ## Why Xiaomi MiMo
 This project shows how MiMo performs in real developer-assistant workloads, not only generic chat.
+
+## Project Maturity
+- MVP code available
+- Architecture documented
+- Roadmap documented
+- CI configured
+- MIT licensed
+
+## Links
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
+- [Examples](examples/basic.md)
